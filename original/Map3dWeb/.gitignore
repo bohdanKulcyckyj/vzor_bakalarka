@@ -1,0 +1,5 @@
+./sarif/
+.vs/
+Map3dWeb/bin/
+Map3dWeb/obj/
+Map3dWeb/wwwroot/
